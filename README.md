@@ -1,2 +1,9 @@
-# nuxt-bridge-vue-apollo-composables
-Created with CodeSandbox
+# Nuxt Brdige 🌉 with Vue Apollo composables 🚀
+
+Testing Nuxt Bridge with Vue Apollo composables.
+
+## ⚙ Development
+
+```
+yarn install && yarn start
+```

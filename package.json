@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-bridge-with-vue-apollo-composables",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.15.1",
+    "nuxt-edge": "latest"
+  },
+  "devDependencies": {
+    "@apollo/client": "^3.4.16",
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge",
+    "@vue/apollo-composable": "^4.0.0-alpha.15",
+    "eslint-config-prettier": "^8.3.0",
+    "graphql": "^15.6.1",
+    "graphql-tag": "^2.12.5",
+    "isomorphic-fetch": "^3.0.0",
+    "prettier": "^2.3.2"
+  },
+  "keywords": [],
+  "description": ""
+}
